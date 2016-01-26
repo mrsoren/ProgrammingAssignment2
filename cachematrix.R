@@ -1,6 +1,6 @@
 ## The two functions in this script can be used to compute the inverse of a matrix in a way
 ## that the result is only actually computed once. 
-## The result is cached and will be reused if needed.
+## The result is cached and will be reused if needed. 
 
 
 ## The function 'makeCacheMatrix' constructs an object which can hold a matrix and its inverse
